@@ -1,4 +1,4 @@
-**Invoice PDF Extractor**
+**Invoice PDF Extractor**<br>
 This project is a simple Invoice PDF Extractor built using Streamlit for the frontend and pdfplumber and regex for PDF text extraction. The application extracts specific fields from an invoice in PDF format and displays the extracted data in JSON format. The main goal of this project is to automate the extraction of key information from invoices without any manual selection of fields, making it user-friendly and efficient.
 
 Features
