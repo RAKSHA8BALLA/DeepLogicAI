@@ -29,10 +29,10 @@ Extensibility: The code is designed to be extensible. If new fields need to be a
 
 **Instructions to Run**<br>
 
-Install Dependencies:
+Install Dependencies:<br>
     pip install streamlit pdfplumber
 
-Run the Streamlit App:
+Run the Streamlit App:<br>
     streamlit run app.py
 
 **Upload a PDF Invoice: Once the app is running in your browser, upload a PDF invoice to extract and display the relevant details.**
